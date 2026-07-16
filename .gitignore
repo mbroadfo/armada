@@ -1,0 +1,28 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# 86Box / emulator runtime artifacts (keep VM assets intentionally elsewhere)
+*.sav
+*.state
+*.tmp
+
+# Large binary images are usually managed outside git
+*.img
+*.vhd
+*.vdi
+*.iso
+*.bin
+*.cue
+*.chd
+
+# Archive outputs
+out/
+backups/
+
+# Editor
+.vscode/
+.idea/
